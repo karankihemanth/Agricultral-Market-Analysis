@@ -70,7 +70,7 @@ The project includes:
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/agricultural-market-analysis.git
+   https://github.com/karankihemanth/Agricultral-Market-Analysis/blob/main/Agricultural%20Market%20Analysis.ipynb
    ```
 2. Install dependencies:
    ```sh
